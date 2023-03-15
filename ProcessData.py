@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Mar  9 13:50:16 2022
-
-@author: Lucas
-
-Ok so calculate the first position
 """
 import math
 import SpaceObjects as so
