@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr  5 11:02:35 2022
-
-@author: Lucas
 """
 import random
 class Objects:
