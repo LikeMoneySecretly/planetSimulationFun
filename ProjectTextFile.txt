@@ -1,0 +1,52 @@
+Object Perseverance:
+mass = 3649
+initial position = (1.500639e11,1)
+magnitude velocity = 11000
+radius = 1e2
+satellite = True
+target = Mars,fly by
+
+Object Earth:
+mass = 5.9722e24
+initial position = (x,0)
+initial velocity = (0,y)
+radius = 6.38e6
+orbital radius = 1.5e11
+orbital period = 3.1558E+07
+
+Object Venus:
+mass = 4.868e24
+initial position = (x,0)
+initial velocity = (0,y)
+radius = 6051.8e3
+orbital radius = 1.0771e11
+orbital period = 19440000
+
+Object Sun:
+mass = 1.989e30
+initial position = (0,0)
+initial velocity = (0,0)
+radius = 696000e3
+focal point = True
+
+Object Mars:
+mass = 6.4185e23
+initial position = (x,0)
+initial velocity = (0,y)
+radius = 3396.2e3
+orbital radius = 2.2799e11
+orbital period = 59355072
+
+Object Mercury:
+mass = 0.3301e24
+initial position = (x,0)
+initial velocity = (0,y)
+radius = 2440.5e3
+orbital radius = 4.592e10
+orbital period = 7600608
+
+Simulation Details
+timestep(s)= 100000
+number of timesteps = 100000
+orbital period = False
+display energies = False
