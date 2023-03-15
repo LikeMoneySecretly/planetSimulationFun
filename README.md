@@ -7,3 +7,4 @@ It doesn't work fully with satellite integration and I never got round to finish
 Control whether to display the total kinetic energies and other things in the projectTextFile, true/false. The satellite system doesn't work properly but the planetary motion system does.
 
 The code generates the positions first then stores them and plots the result on an animation. I.e. the animation is displayed the code has already finished running.
+This system is designed to use a Beeman step integration system to get relatively accurate results. Note, Some debugging print statements have been left in.
